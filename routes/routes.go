@@ -1,7 +1,7 @@
 package routes
 
 import (
-	"covi-helper-backend/structs"
+	"covi-helper-backend-code/structs"
 	"database/sql"
 	"encoding/json"
 	"fmt"

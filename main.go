@@ -1,7 +1,7 @@
 package main
 
 import (
-	"covi-helper-backend/routes"
+	"covi-helper-backend-code/routes"
 	"database/sql"
 	"fmt"
 	_ "github.com/go-sql-driver/mysql"
